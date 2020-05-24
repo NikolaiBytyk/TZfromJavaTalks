@@ -1,0 +1,5 @@
+Employer|Bob|Billy
+Manager|Kolya|Bytyk 
+Employer|Vici|Doc
+OtherEmployer|Father|Fail
+Manager|Gogo|Vice
