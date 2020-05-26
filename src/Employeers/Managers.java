@@ -7,6 +7,7 @@ import java.util.List;
 public class Managers extends Worker {
 
     private List<Worker> obeyEmployeersList = new ArrayList<Worker>();
+    private Department department;
 
     public Managers(String name, String surname, Date birthDay, Date employmentDay, ArrayList obeyEmployersList) {
         setTypeEmployeer("Manager");
